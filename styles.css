@@ -1,0 +1,27 @@
+div {
+   padding: 1em;
+}
+
+#section-1 {
+   background-color: lightsteelblue;
+}
+
+#section-2 {
+   background-color: lightcoral;
+}
+
+#section-3 {
+   background-color: lightgreen;
+}
+
+#section-4 {
+   background-color: lightslategrey;
+}
+
+#section-5 {
+   background-color: lightgoldenrodyellow;
+}
+
+#section-6 {
+   background-color: lightsalmon;
+}
